@@ -1,7 +1,4 @@
 <keymap version="1" name="Mac OS X 10.5+ emacs " parent="Mac OS X 10.5+">
-  <action id="Annotate">
-    <keyboard-shortcut first-keystroke="ctrl meta alt a" />
-  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" second-keystroke="c" />
   </action>
@@ -27,9 +24,6 @@
   </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" second-keystroke="m" />
-  </action>
-  <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift alt close_bracket" />
@@ -63,9 +57,6 @@
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
-  </action>
-  <action id="Vcs.ChangesView">
-    <keyboard-shortcut first-keystroke="ctrl meta alt s" />
   </action>
   <action id="Vcs.Push" />
 </keymap>

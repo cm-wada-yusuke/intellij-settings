@@ -20,6 +20,16 @@
           </profile>
         </annotationProcessing>
       </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -30,7 +40,11 @@
         <ConfirmationsSetting value="0" id="Add" />
         <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
       <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
@@ -121,9 +135,13 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/Documents/casp-api" value="5845680297000" />
-            <entry key="$USER_HOME$/Documents/line-bot-test" value="1463051776000" />
-            <entry key="$USER_HOME$/Documents/scala-prac" value="1462935929000" />
+            <entry key="$USER_HOME$/Documents/casp-api" value="1457590723000" />
+            <entry key="$USER_HOME$/Documents/pr-cm-cocofine/casp-api" value="1457505128000" />
+            <entry key="$USER_HOME$/Documents/pr-cm-cocofine/casp-api_sandbox" value="1457590381000" />
+            <entry key="$USER_HOME$/Documents/pr-cm-samp/smap-api-general" value="2915626287000" />
+            <entry key="$USER_HOME$/Documents/pr-cm-samp/smap-server-lib" value="1458007034000" />
+            <entry key="$USER_HOME$/Documents/scala-prac" value="1458626854000" />
+            <entry key="$USER_HOME$/intellij/line-bot-test" value="1460292268000" />
           </map>
         </option>
         <option name="externalProjectsViewState">
@@ -134,6 +152,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
