@@ -9,6 +9,7 @@
         <option value="infrastructure.dbclient.DynamoDBExecutionContext.context" />
       </array>
     </option>
+    <option name="USE_SCALADOC2_FORMATTING" value="false" />
   </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
