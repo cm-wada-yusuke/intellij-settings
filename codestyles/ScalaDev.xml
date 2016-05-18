@@ -1,7 +1,7 @@
 <code_scheme name="ScalaDev">
-  <MultiMarkdownCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
+  </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
@@ -9,6 +9,9 @@
         <option value="infrastructure.dbclient.DynamoDBExecutionContext.context" />
       </array>
     </option>
+    <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
+    <option name="USE_SCALADOC2_FORMATTING" value="false" />
+    <option name="KEEP_XML_FORMATTING" value="true" />
   </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
