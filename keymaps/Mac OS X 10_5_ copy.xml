@@ -31,6 +31,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" second-keystroke="t" />
   </action>
