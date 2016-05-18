@@ -1,7 +1,7 @@
 <code_scheme name="ScalaDev">
-  <MarkdownNavigatorCodeStyleSettings>
+  <MultiMarkdownCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
+  </MultiMarkdownCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
