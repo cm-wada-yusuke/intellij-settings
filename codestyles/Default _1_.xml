@@ -1,0 +1,30 @@
+<code_scheme name="Default (1)">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="RequestConverter.cococielReads" />
+        <option value="RequestQueryParameters._" />
+        <option value="controllers.member.MemberRequestBodyConverter" />
+        <option value="controllers.member.MemberRequestBodyConverter._" />
+        <option value="infrastructure.dbclient.DynamoDBExecutionContext.context" />
+        <option value="scala.concurrent.ExecutionContext.Implicits.global" />
+      </array>
+    </option>
+    <option name="classCountToUseImportOnDemand" value="3" />
+    <option name="SPACE_BEFORE_BRACE_METHOD_CALL" value="false" />
+    <option name="USE_SCALADOC2_FORMATTING" value="false" />
+    <option name="PRESERVE_SPACE_AFTER_METHOD_DECLARATION_NAME" value="true" />
+    <option name="SPACE_BEFORE_INFIX_LIKE_METHOD_PARENTHESES" value="true" />
+    <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
+    <option name="SPACES_IN_IMPORTS" value="true" />
+  </ScalaCodeStyleSettings>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
