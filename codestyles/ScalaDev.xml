@@ -9,7 +9,9 @@
         <option value="infrastructure.dbclient.DynamoDBExecutionContext.context" />
       </array>
     </option>
+    <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
+    <option name="KEEP_XML_FORMATTING" value="true" />
   </ScalaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
