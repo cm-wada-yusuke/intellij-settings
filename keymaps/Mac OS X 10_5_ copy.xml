@@ -1,0 +1,24 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
+</keymap>
