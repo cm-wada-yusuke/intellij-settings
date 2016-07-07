@@ -11,6 +11,7 @@
     </option>
     <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
+    <option name="SPACES_IN_ONE_LINE_BLOCKS" value="true" />
     <option name="SPACES_IN_IMPORTS" value="true" />
     <option name="KEEP_XML_FORMATTING" value="true" />
   </ScalaCodeStyleSettings>
@@ -19,7 +20,6 @@
   </XML>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <indentOptions>
