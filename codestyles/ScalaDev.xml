@@ -1,4 +1,7 @@
 <code_scheme name="ScalaDev">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="alwaysUsedImports">
       <array>
@@ -6,9 +9,9 @@
         <option value="infrastructure.dbclient.DynamoDBExecutionContext.context" />
       </array>
     </option>
-    <option name="SPACE_INSIDE_CLOSURE_BRACES" value="false" />
     <option name="KEEP_ONE_LINE_LAMBDAS_IN_ARG_LIST" value="true" />
     <option name="USE_SCALADOC2_FORMATTING" value="false" />
+    <option name="SPACES_IN_IMPORTS" value="true" />
     <option name="KEEP_XML_FORMATTING" value="true" />
   </ScalaCodeStyleSettings>
   <XML>
@@ -16,7 +19,11 @@
   </XML>
   <codeStyleSettings language="Scala">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
