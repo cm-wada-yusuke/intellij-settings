@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" second-keystroke="c" />
   </action>
