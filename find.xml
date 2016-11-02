@@ -1,6 +1,6 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.conf,*.scala" />
+    <option name="FILE_MASK" value="*.conf,*.scala,*.sh,.rake,*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +15,7 @@
       <mask>*.scala</mask>
       <mask>*.scala,*.conf</mask>
       <mask>*.conf,*.scala</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
