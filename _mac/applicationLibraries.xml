@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="R Skeletons">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
         <compiler-classpath>
