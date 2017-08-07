@@ -5,16 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.html" />
+    <option name="FILE_MASK" value="*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json" />
     <recentFileMasks>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.</mask>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.t</mask>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts</mask>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,</mask>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*</mask>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.</mask>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.j</mask>
-      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js</mask>
       <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,.</mask>
       <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,</mask>
       <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*</mask>
@@ -37,6 +29,14 @@
       <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.h</mask>
       <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.ht</mask>
       <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.html</mask>
+      <mask>*.conf,*.Ascala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.html</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.html</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.htm</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.h</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*.</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,*</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json,</mask>
+      <mask>*.conf,*.scala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.jsonscala,*.sh,.rake,*.rb,*.txt,*.ts,*.js,*.json</mask>
     </recentFileMasks>
   </component>
 </application>
