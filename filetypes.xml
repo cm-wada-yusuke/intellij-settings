@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dev-casp-internal-envs" type="PLAIN_TEXT" />
       <mapping pattern="swrole" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
